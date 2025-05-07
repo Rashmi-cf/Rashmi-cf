@@ -32,7 +32,7 @@ let Skills = {
 ```
 
 ```js
-💫 About Me:
+🌛 About Me:
 
       Hello,
 
@@ -93,27 +93,16 @@ let Skills = {
 
 ---
 
-### 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rashmi-cf/Rashmi-cf/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rashmi-cf/Rashmi-cf/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Rashmi-cf/Rashmi-cf/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
-### 📫 Let's Connect
+### 📢 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rashmi-kalsariya-289a7628a/)
 - 🌐 [Portfolio](https://portfolio-rho-eight-47.vercel.app/)
 
 ---
 
-### 💬 Random Developer Quote
+### 💬 Rotating Developer Quote
 
-> *“Programs must be written for people to read, and only incidentally for machines to execute.”*  
-> — **Harold Abelson**
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
