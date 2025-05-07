@@ -100,7 +100,7 @@ let Skills = {
 
 ---
 
-### 💬 Rotating Developer Quote
+### 💬Developer Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
